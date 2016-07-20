@@ -4,7 +4,7 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 .materialize-red {
-  background-color: #e51c23 !important;
+  background-color: #81d4fa !important;
 }
 
 .materialize-red-text {
@@ -110,6 +110,7 @@
 .red.lighten-3 {
   background-color: #EF9A9A !important;
 }
+
 
 .red-text.text-lighten-3 {
   color: #EF9A9A !important;
@@ -8042,6 +8043,8 @@ input[type=range]:focus::-ms-fill-upper {
 button.picker__today:focus, button.picker__clear:focus, button.picker__close:focus {
   background-color: #a1ded8;
 }
+
+
 
 /* ==========================================================================
    $BASE-TIME-PICKER
