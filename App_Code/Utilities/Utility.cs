@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Connection.Capa_Negocio
-{
     /// <summary>
     /// Contiene utilidades que se usan en toda la aplicación.
     /// </summary>
-    class Utility
+   public class Utility
     {
         /// <summary>
         /// Obtiene el nuevo índice
@@ -58,4 +56,4 @@ namespace Connection.Capa_Negocio
         }
 
     }
-}
+
